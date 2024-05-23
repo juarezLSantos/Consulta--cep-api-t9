@@ -1,0 +1,36 @@
+{
+  "endereco": [
+    {
+      "cep": "09810390",
+      "logradouro": "Rua das Orquideas",
+      "bairro": "Assunção",
+      "cidade": "São Bernardo do Campo",
+      "uf": "SP",
+      "id": "ffce"
+    },
+    {
+      "cep": "41110520",
+      "logradouro": "Rua das Orquideas",
+      "bairro": "Assunção",
+      "cidade": "São Bernardo do Campo",
+      "uf": "SP",
+      "id": "4e37"
+    },
+    {
+      "cep": "05735030",
+      "logradouro": "Rua das Orquideas",
+      "bairro": "Assunção",
+      "cidade": "São Bernardo do Campo",
+      "uf": "SP",
+      "id": "1894"
+    },
+    {
+      "cep": "04266060",
+      "logradouro": "Rua Moreira de Godói",
+      "bairro": "Ipiranga",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "id": "ca5a"
+    }
+  ]
+}
