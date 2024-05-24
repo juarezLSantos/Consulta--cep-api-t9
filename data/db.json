@@ -31,6 +31,28 @@
       "cidade": "São Paulo",
       "uf": "SP",
       "id": "ca5a"
+    },
+    {
+      "id": "6a34",
+      "cep": "05735030",
+      "logradouro": "Rua Carlos Magalhães",
+      "bairro": "SP"
+    },
+    {
+      "id": "e8ca",
+      "cep": "05735030",
+      "logradouro": "Rua Carlos Magalhães",
+      "bairro": "Parque Rebouças",
+      "cidade": "São Paulo",
+      "uf": "SP"
+    },
+    {
+      "id": "6e7b",
+      "cep": "05735030",
+      "logradouro": "Rua Carlos Magalhães",
+      "bairro": "Parque Rebouças",
+      "cidade": "São Paulo",
+      "uf": "SP"
     }
   ]
 }
