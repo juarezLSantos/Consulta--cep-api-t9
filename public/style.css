@@ -29,8 +29,33 @@
     
  }  
  
- label for {
+ div {
     height: 65%;
     display: inline;
     justify-items: 30%;
+    background-color: cornflowerblue;
+    align-items: center;
+    justify-content: center;
  }
+
+ div {
+   align-items: center;
+   justify-content: center;
+   font-display: flex;
+   background-color: chocolate;
+
+ }
+
+ a {
+   text-decoration: none;
+   cursor: initial;
+ }
+
+ a href{
+   font-family: sans-serif;
+   padding: 0 1rem;
+ }
+
+
+
+ 

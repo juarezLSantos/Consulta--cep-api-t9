@@ -1,5 +1,8 @@
 function consultaCEP(cep) {
 
+    alert(cep)
+    console.log(cep);
+
     cep = cep.replace(/\D/g, '');  // expressão regular -> regex
 
     if (cep != "") {
@@ -66,8 +69,6 @@ function limpaForm() {
     })
 
 }
-
-
 
 function cadastrarCEP(enderecoCompleto) {
 
